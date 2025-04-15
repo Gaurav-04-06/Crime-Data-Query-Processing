@@ -1,0 +1,9 @@
+Step1: 
+
+cd server
+python server.py
+
+Step2:
+
+cd client
+streamlit run streamlit_app.py
